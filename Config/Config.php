@@ -5,10 +5,10 @@
 	date_default_timezone_set('America/Lima');
 
 	//Datos de conexión a Base de Datos
-	const DB_HOST = "localhost";
-	const DB_NAME = "db_tiendavirtual";
-	const DB_USER = "root";
-	const DB_PASSWORD = "123456";
+	const DB_HOST = "dpg-cvahlman91rc73950rj0-a";
+	const DB_NAME = "tiendavirtual_41hm";
+	const DB_USER = "tiendavirtual_user";
+	const DB_PASSWORD = "oJVQ99Xmtm11wKBKR320e2b2Na6LspRx";
 	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
